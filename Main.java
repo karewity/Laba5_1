@@ -4,6 +4,7 @@ class Main {
         int step = 1;
         System.out.println("Шаг выполнения: " + step);
         showBranchInfo();
+        System.out.println("Привет");
 
     }
     static void showBranchInfo() {
